@@ -13,5 +13,6 @@ public class Code_11 {
      
         else
             System.out.print(ch+ " is not an aplhabetic character" );
+        
     }        
 }
